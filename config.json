@@ -1,0 +1,124 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Ultra Source Reload Shader (Windows 10)",
+        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": "ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": " ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/1.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/R3iTb12163MScTNFtUwf3xb5RtcpUTZsKoEEeKtBjHDzmLr_ohzULz1WHLZJvKBpijFWiu-2I0nZSb1dXj5aM74",
+    "view_skin": "https://lh3.googleusercontent.com/PSATg6vz-UnUBtAMRr_n2Gfg2zsOE7WdO7tVb4_3WQ4XVQoVjhZWOmUom8wbj5a0VXHe4JPrTXRnksRRqoZrGoc"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/pQ3ExWxVXzo0j7xlmTJ3C9F3w9vGDobIIOwueq6orBDsIStIi6-tWra_ZI2jLrPSHTIIAvqrry4G3X4Ie0-s",
+    "view_skin": "https://lh3.googleusercontent.com/JHgf-Nkz0G432lFJJiB-h64Y-s1hdTlj3PLdJUecMcrVrXmIE-qA8mEWhEo5cLem1N-2oWC80ZCcYkCuOGlD"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/G0WradJf1xBLwDvuptUv434JDZBMRC6fBRjzl0382O-OtTYR0QwWaW68cj9UHcSkpi8EOiYMVQeHgr2sElQ5hEc",
+    "view_skin": "https://lh3.googleusercontent.com/pmpHwIZTLb7eXdp_UxhIO9xO5TkcFBtz7pF-iYISQX1cH2PARsrctutPk5xYFlRYyE8Wahk0Y2yZq3KfougP7w"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/MZJA7w_UzOEBg9SnOPUFx-tFvVQvSVIW6RHDDF-A6UIExTeA7j88wjGsZbFEuWR88w7ADpPy2CPALsEdjAekbA",
+    "view_skin": "https://lh3.googleusercontent.com/i-Aah_mFztqIyrMmSFaYoJVWtxthVvnaiUs2JLtJZmq1zNn96Tat36rXy70HVAzuq3WDwym9XBnzn-x4y2Et"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
