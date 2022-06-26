@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,28 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Ultra Source Reload Shader (Windows 10)",
-        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
-    },
-    {
-        "name": "ESTN Shaders Official Release",
-        "role": "ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png"
-    },
-    {
-        "name": "ESTN Shaders Official Release",
-        "role": " ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
